@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /easter_egg.html
+Disallow: /bootstrap-5.0.2-dist/*
+Disallow: /Fonts/*
+Disallow: /jquery/*
+Disallow: /SVG/*
+Disallow: /swiper/*
+
+Sitemap: https://www.horstek.it/sitemap.xml
